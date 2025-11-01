@@ -1,7 +1,6 @@
 # PolyGas - Polygon Gas Tracker & Optimizer 🚀
 
-   <img src="https://cryptologos.cc/logos/polygon-matic-logo.svg" alt="Polygon" width="100" height="100" />
-  
+   
   **Never overpay on gas fees again!**
   
   [![Built with Polygon](https://img.shields.io/badge/Built%20with-Polygon-8247E5?style=for-the-badge&logo=polygon)](https://polygon.technology/)
