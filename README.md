@@ -119,20 +119,7 @@ The Polygon network's gas prices fluctuate throughout the day. Executing transac
    - Get notifications when prices are optimal
    - Track your total savings over time
 
-### Technical Flow:
-
-```mermaid
-graph LR
-    A[User] --> B[React Frontend]
-    B --> C[Supabase Auth]
-    B --> D[MetaMask Wallet]
-    B --> E[Gas Tracker API]
-    B --> F[AI Assistant]
-    E --> G[Polygon Network]
-    F --> H[Edge Functions]
-    H --> I[AI Models]
-    C --> J[PostgreSQL DB]
-```
+ 
 
 ---
 
