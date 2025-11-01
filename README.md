@@ -1,13 +1,11 @@
 # PolyGas - Polygon Gas Tracker & Optimizer 🚀
 
-<div align="center">
-  <img src="https://cryptologos.cc/logos/polygon-matic-logo.svg" alt="Polygon" width="100" height="100" />
+   <img src="https://cryptologos.cc/logos/polygon-matic-logo.svg" alt="Polygon" width="100" height="100" />
   
   **Never overpay on gas fees again!**
   
   [![Built with Polygon](https://img.shields.io/badge/Built%20with-Polygon-8247E5?style=for-the-badge&logo=polygon)](https://polygon.technology/)
-  [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+
 </div>
 
 ---
